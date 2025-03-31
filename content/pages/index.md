@@ -40,7 +40,7 @@ sections:
           padding:
             - pt-4
             - pb-4
-      url: /images/online-3539409_1280.webp
+      url: '/images/ChatGPT Image Mar 31, 2025, 11_33_44 PM.png'
     badge:
       label: This is a badge
       color: text-primary
