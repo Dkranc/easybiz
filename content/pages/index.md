@@ -40,6 +40,7 @@ sections:
           padding:
             - pt-4
             - pb-4
+      url: /images/abstract-feature2.svg
     badge:
       label: This is a badge
       color: text-primary
