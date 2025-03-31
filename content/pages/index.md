@@ -91,7 +91,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/data-transfer.png
+          url: /images/send-data.png
           styles:
             self:
               borderRadius: x-large
