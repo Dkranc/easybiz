@@ -179,7 +179,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/טרם.jpg
+        url: /images/טרם_200x98.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
