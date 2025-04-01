@@ -3,7 +3,7 @@
     "secondaryLinks": [
         {
             "label": "Sign up",
-            "altText": "Sign up",
+            "altText": "Contact Us",
             "url": "#form-comp",
             "icon": "arrowRight",
             "iconPosition": "right",
