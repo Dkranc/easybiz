@@ -193,7 +193,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/6554cc7e59eb289ea7ddf0d7_OAsis logo dark-p-1080.png
+        url: /images/6554cc7e59eb289ea7ddf0d7_OAsis logo dark-p-1080_141x200.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
