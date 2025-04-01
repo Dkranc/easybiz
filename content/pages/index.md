@@ -193,7 +193,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/logo2.png
+        url: /images/logo2_200x200.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
