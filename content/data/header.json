@@ -2,20 +2,12 @@
     "primaryLinks": [],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
+            "label": "Contact Us",
+            "altText": "Contact Us",
             "url": "#form-comp",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "type": "Button"
         }
     ],
@@ -24,7 +16,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/hero2.svg",
+        "url": "/images/ChatGPT Image Mar 31, 2025, 11_33_44 PM_102x102.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
