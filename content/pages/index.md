@@ -197,7 +197,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/משרד-הביטחון1000_200x113.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
