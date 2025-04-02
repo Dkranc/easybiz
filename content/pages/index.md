@@ -42,7 +42,7 @@ sections:
             - pb-4
       url: /images/online-3539409_1280.webp
     badge:
-      label: This is a badge
+      label: Easy Biz
       color: text-primary
       type: Badge
     elementId: ''
