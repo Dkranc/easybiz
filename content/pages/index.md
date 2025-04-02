@@ -95,7 +95,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 200+
         subtitle: The Job Stuff
         text: |2
            We integrate with **CRMs, APIs, databases, spreadsheets, and more**.
