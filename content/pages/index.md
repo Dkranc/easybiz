@@ -70,7 +70,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: Save Time & Reduce Errors
         text: |
           Eliminate repetitive manual work with seamless automation.
         actions: []
