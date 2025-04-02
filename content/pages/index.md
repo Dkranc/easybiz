@@ -337,7 +337,7 @@ sections:
         subtitle: 'Sarah M., E-commerce Manager'
         text: >
           Contact us today to see how we can help you take your e-commerce
-          business to the next level
+          business to the next level.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
