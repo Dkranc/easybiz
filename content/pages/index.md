@@ -232,7 +232,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Let us help you make insightfull desiccions
     text: >
       **Boosting business productivity through efficient data management
       empowers companies to make insightful decisions faster.** When data flows
