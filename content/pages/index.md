@@ -97,10 +97,8 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2
+           We integrate with **CRMs, APIs, databases, spreadsheets, and more**.
         image:
           url: /images/data-transfer (1).png
           altText: Featured icon two
