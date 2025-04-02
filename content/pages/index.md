@@ -4,33 +4,26 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Unlock Seamless Data Integration & Automation
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Streamline Your Business with Custom Programming Solutions
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At **Easy Biz**, we specialize in **connecting data from different
+      sources, implementing integrations, and automating workflows**—saving you
+      time and boosting efficiency. Whether you need to sync platforms, process
+      large datasets, or automate manual tasks, we ensure your data flows
+      effortlessly across your business.
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '#form-comp'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
@@ -42,7 +35,7 @@ sections:
             - pb-4
       url: /images/online-3539409_1280.webp
     badge:
-      label: This is a badge
+      label: Easy Biz
       color: text-primary
       type: Badge
     elementId: ''
@@ -64,15 +57,14 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Boost your business
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 5x Your time
+        subtitle: Save Time & Reduce Errors
+        text: >
+          Eliminate repetitive manual work with seamless automation. Integrate
+          to all data platforms to minimize manual mistakes.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -95,12 +87,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 200+
+        subtitle: Connect Any Platform
+        text: >
+          We integrate with **CRMs, APIs, databases, spreadsheets, and more**.
+          We provide integrations for reaching all your data and making it easy
+          for you to handle.
         image:
           url: /images/data-transfer (1).png
           altText: Featured icon two
@@ -120,12 +112,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Try us
+        subtitle: Tailored Solution
+        text: |
+          Custom-built integrations designed for **your unique business needs**.
         image:
           url: /images/web-hosting.png
           altText: Featured icon three
@@ -146,7 +136,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '#form-comp'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -154,7 +144,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Why Choose Easy Biz?
       color: text-primary
       styles:
         self:
@@ -210,6 +200,13 @@ sections:
         styles:
           self:
             borderRadius: medium
+      - type: ImageBlock
+        url: /images/download (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
@@ -218,25 +215,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -254,34 +232,18 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: Let us help you make insightfull desiccions
+    text: >
+      **Boosting business productivity through efficient data management
+      empowers companies to make insightful decisions faster.** When data flows
+      seamlessly across systems—without manual bottlenecks—teams can focus on
+      strategy rather than tedious tasks. **Automated integrations eliminate
+      errors, provide real-time insights, and ensure that decision-makers always
+      have accurate information at their fingertips.** By streamlining data
+      processes, businesses can react quickly to market trends, optimize
+      operations, and gain a competitive edge in their industry
     badge:
-      label: Key Benefits
+      label: Data Driven
       color: text-primary
       styles:
         self:
@@ -295,57 +257,25 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
+      type: ImageBlock
+      url: '/images/ChatGPT Image Apr 2, 2025, 06_28_01 PM.png'
+      altText: Image alt text placeholder
+      elementId: ''
       styles:
         self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
+          borderRadius: medium
   - title:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Unlock Powerful Social Media Insights
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Our service helps businesses **analyze social media data, track
+      performance, and uncover valuable insights** to optimize their strategy.
+      By integrating data from multiple platforms, we provide real-time
+      analytics, audience trends, and engagement metrics—helping you make
+      **data-driven decisions faster and maximize your social media impact.**
     actions:
       - label: Get started
         url: /
@@ -361,53 +291,17 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Platform.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: We can reach anywhere
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -424,14 +318,14 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Before Easy Biz, we wasted hours every week manually pulling reports.
+          Now, everything updates in real-time, and we make decisions faster
+          than ever!"
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'Sarah M., E-commerce Manager'
+        text: >
+          Contact us today to see how we can help you take your e-commerce
+          business to the next level.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
