@@ -71,8 +71,9 @@ sections:
       - type: FeaturedItem
         title: 5x Your time
         subtitle: Save Time & Reduce Errors
-        text: |
-          Eliminate repetitive manual work with seamless automation.
+        text: >
+          Eliminate repetitive manual work with seamless automation. Integrate
+          to all data platforms to minimize manual mistakes.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
