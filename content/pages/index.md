@@ -259,7 +259,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: '/images/ChatGPT Image Apr 2, 2025, 06_28_01 PM.png'
       altText: Image alt text placeholder
       elementId: ''
       styles:
