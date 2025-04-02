@@ -123,10 +123,8 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Custom-built integrations designed for **your unique business needs**.
         image:
           url: /images/web-hosting.png
           altText: Featured icon three
