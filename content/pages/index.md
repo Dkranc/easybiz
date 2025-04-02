@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 200+
-        subtitle: The Job Stuff
+        subtitle: Connect Any Platform
         text: |2
            We integrate with **CRMs, APIs, databases, spreadsheets, and more**.
         image:
