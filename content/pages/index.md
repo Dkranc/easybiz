@@ -233,11 +233,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **Boosting business productivity through efficient data management
+      empowers companies to make insightful decisions faster.** When data flows
+      seamlessly across systems—without manual bottlenecks—teams can focus on
+      strategy rather than tedious tasks. **Automated integrations eliminate
+      errors, provide real-time insights, and ensure that decision-makers always
+      have accurate information at their fingertips.** By streamlining data
+      processes, businesses can react quickly to market trends, optimize
+      operations, and gain a competitive edge in their industry
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
