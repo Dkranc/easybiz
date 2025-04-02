@@ -121,7 +121,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Try us
         subtitle: Tailored Solution
         text: |
           Custom-built integrations designed for **your unique business needs**.
