@@ -66,7 +66,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Boost your bussiness
+    subtitle: Boost your business
     items:
       - type: FeaturedItem
         title: 500k
