@@ -283,8 +283,11 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Our service helps businesses **analyze social media data, track
+      performance, and uncover valuable insights** to optimize their strategy.
+      By integrating data from multiple platforms, we provide real-time
+      analytics, audience trends, and engagement metrics—helping you make
+      **data-driven decisions faster and maximize your social media impact.**
     actions:
       - label: Get started
         url: /
