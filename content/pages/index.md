@@ -98,8 +98,10 @@ sections:
               borderRadius: x-large
       - title: 200+
         subtitle: Connect Any Platform
-        text: |2
-           We integrate with **CRMs, APIs, databases, spreadsheets, and more**.
+        text: >
+          We integrate with **CRMs, APIs, databases, spreadsheets, and more**.
+          We provide integrations for reaching all your data and making it easy
+          for you to handle.
         image:
           url: /images/data-transfer (1).png
           altText: Featured icon two
