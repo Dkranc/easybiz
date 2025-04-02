@@ -334,7 +334,7 @@ sections:
           Now, everything updates in real-time, and we make decisions faster
           than ever!"
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Sarah M., E-commerce Manager'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
