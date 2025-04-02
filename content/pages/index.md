@@ -281,7 +281,7 @@ sections:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Unlock Powerful Social Media Insights
     text: >
       Our service helps businesses **analyze social media data, track
       performance, and uncover valuable insights** to optimize their strategy.
