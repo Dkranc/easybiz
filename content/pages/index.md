@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '#form-comp'
         showIcon: false
         icon: arrowRight
         iconPosition: right
