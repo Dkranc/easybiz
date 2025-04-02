@@ -335,10 +335,9 @@ sections:
           than ever!"
         tagline: Testimonial 1
         subtitle: 'Sarah M., E-commerce Manager'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Contact us today to see how we can help you take your e-commerce
+          business to the next level
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
