@@ -242,26 +242,6 @@ sections:
       have accurate information at their fingertips.** By streamlining data
       processes, businesses can react quickly to market trends, optimize
       operations, and gain a competitive edge in their industry
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Data Driven
       color: text-primary
