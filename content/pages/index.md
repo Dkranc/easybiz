@@ -303,7 +303,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/data1.jpg
+      url: /images/Platform.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
