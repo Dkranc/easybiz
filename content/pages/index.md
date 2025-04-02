@@ -7,7 +7,7 @@ sections:
       text: Unlock Seamless Data Integration & Automation
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Streamline Your Business with Custom Programming Solutions
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
