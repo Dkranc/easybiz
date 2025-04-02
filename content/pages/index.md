@@ -69,7 +69,7 @@ sections:
     subtitle: Boost your business
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 24 HR
         subtitle: Save Time & Reduce Errors
         text: |
           Eliminate repetitive manual work with seamless automation.
