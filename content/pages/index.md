@@ -303,7 +303,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/images.png
+      url: /images/images.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
