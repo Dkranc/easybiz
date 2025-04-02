@@ -122,7 +122,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: Tailored Solution
         text: |
           Custom-built integrations designed for **your unique business needs**.
         image:
