@@ -348,8 +348,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Connecting our CRM, accounting software, and email marketing platform
+          was a nightmare. Easy Biz automated everything, and now our workflows
+          run effortlessly!"
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
