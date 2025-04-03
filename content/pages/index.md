@@ -452,7 +452,7 @@ sections:
         tagline: E-commerce
         subtitle: Unlock the power of data
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Get insights and analytics from all your platforms.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
