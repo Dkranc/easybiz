@@ -516,11 +516,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: We can boost your business to hte next level
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      create a medium size image with graphs andcharts to emphasize how our data
+      oriented approach helps a business. donw use any words
+
     media:
       fields:
         - name: name
