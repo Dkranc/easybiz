@@ -378,8 +378,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "We used to spend too much time organizing data from multiple sources.
+          Easy Biz built an integration that saves us at least 10 hours per
+          week!"
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
