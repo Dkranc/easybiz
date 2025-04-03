@@ -481,7 +481,7 @@ sections:
           We can help you reach your data easily and let you focus on your
           business. Let us gather your data for you.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/download (2).jpg
           altText: Placeholder image
           styles:
             self:
