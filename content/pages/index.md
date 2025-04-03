@@ -352,7 +352,7 @@ sections:
           was a nightmare. Easy Biz automated everything, and now our workflows
           run effortlessly!"
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'David L., Small Business Owner'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
