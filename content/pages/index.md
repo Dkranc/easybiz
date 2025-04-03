@@ -387,7 +387,7 @@ sections:
           Contact us today to find out how we can save you time by centralizing
           your data.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/download (5).jpg
           altText: Maria Walters
           styles:
             self:
