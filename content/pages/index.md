@@ -7,7 +7,7 @@ sections:
       text: Unlock Seamless Data Integration & Automation
       color: text-dark
       type: TitleBlock
-    subtitle: Streamline Your Business with Custom Programming Solutions
+    subtitle: Streamline Your Business with Custom Software Solutions
     text: >
       At **Easy Biz**, we specialize in **connecting data from different
       sources, implementing integrations, and automating workflows**—saving you
@@ -259,7 +259,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: '/images/ChatGPT Image Apr 2, 2025, 06_28_01 PM.png'
+      url: '/images/ChatGPT Image Apr 3, 2025, 08_49_43 AM_614x410.png'
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -327,7 +327,7 @@ sections:
           Contact us today to see how we can help you take your e-commerce
           business to the next level.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/images (1).jpg
           altText: Maria Walters
           styles:
             self:
@@ -348,16 +348,16 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Connecting our CRM, accounting software, and email marketing platform
+          was a nightmare. Easy Biz automated everything, and now our workflows
+          run effortlessly!"
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'David L., Small Business Owner'
+        text: >
+          Contact us today to find out how we can automate your daily tasks, so
+          you can focus on what really matters
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/download (4).jpg
           altText: John Doe
           styles:
             self:
@@ -378,16 +378,16 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "We used to spend too much time organizing data from multiple sources.
+          Easy Biz built an integration that saves us at least 10 hours per
+          week!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'Emily R., Operations Lead'
+        text: >
+          Contact us today to find out how we can save you time by centralizing
+          your data.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/download (5).jpg
           altText: Maria Walters
           styles:
             self:
@@ -395,96 +395,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -506,7 +416,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Our Core Features
       color: text-primary
       styles:
         self:
@@ -514,13 +424,14 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Centralize your data
+        tagline: Integrations
+        subtitle: We can reach anywhere
+        text: >
+          We offer integration services so you can have all your data in one
+          place.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/download (3)_375x210.jpeg
           altText: Placeholder Image
           styles:
             self:
@@ -537,13 +448,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Boost your shop
+        tagline: E-commerce
+        subtitle: Unlock the power of data
+        text: >+
+          Get insights and analytics from all your platforms. Let us focus on
+          collecting the dataand displaying it while you focus on growing your
+          business.
+
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/data1.jpg
           altText: Placeholder image
           styles:
             self:
@@ -560,14 +474,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Connect and thrive
+        tagline: Social Media
+        subtitle: Get your insights
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          We can help you reach your data easily and let you focus on your
+          business. Let us gather your data for you.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/download (2).jpg
           altText: Placeholder image
           styles:
             self:
@@ -598,15 +512,18 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Get in touch and let us help you save time and money
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: We can boost your business to hte next level
+    text: >
+      Every business is unique, and off-the-shelf solutions often fall short. We
+      build **custom software tailored to your specific needs**, helping you
+      **streamline operations, automate workflows, and integrate data
+      seamlessly**. Whether you need a custom dashboard, automated processes, or
+      API integrations, we deliver **scalable, efficient solutions** that save
+      time and drive growth. **Contact us today** to transform the way your
+      business operates!
     media:
       fields:
         - name: name
