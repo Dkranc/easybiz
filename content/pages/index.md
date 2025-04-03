@@ -7,7 +7,7 @@ sections:
       text: Unlock Seamless Data Integration & Automation
       color: text-dark
       type: TitleBlock
-    subtitle: Streamline Your Business with Custom Programming Solutions
+    subtitle: Streamline Your Business with Custom Software Solutions
     text: >
       At **Easy Biz**, we specialize in **connecting data from different
       sources, implementing integrations, and automating workflows**—saving you
