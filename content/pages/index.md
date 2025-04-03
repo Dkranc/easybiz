@@ -473,7 +473,7 @@ sections:
         type: FeaturedItem
       - title: Connect and thrive
         tagline: Social Media
-        subtitle: This is the item subtitle
+        subtitle: Get your insights
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
