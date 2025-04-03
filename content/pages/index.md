@@ -475,8 +475,8 @@ sections:
         tagline: Social Media
         subtitle: Get your insights
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          We can help you reach your data easily and let you focus on your
+          business. Let us gather your data for you.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
