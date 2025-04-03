@@ -353,10 +353,9 @@ sections:
           run effortlessly!"
         tagline: Testimonial 2
         subtitle: 'David L., Small Business Owner'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Contact us today to find out how we can automate your daily tasks, so
+          you can focus on what really matters
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
