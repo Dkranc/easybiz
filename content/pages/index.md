@@ -357,7 +357,7 @@ sections:
           Contact us today to find out how we can automate your daily tasks, so
           you can focus on what really matters
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/download (4).jpg
           altText: John Doe
           styles:
             self:
