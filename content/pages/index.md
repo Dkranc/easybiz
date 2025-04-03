@@ -471,7 +471,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Connect and thrive
         tagline: Social Media
         subtitle: This is the item subtitle
         text: >
