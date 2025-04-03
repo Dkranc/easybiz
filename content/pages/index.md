@@ -451,8 +451,11 @@ sections:
       - title: Boost your shop
         tagline: E-commerce
         subtitle: Unlock the power of data
-        text: |
-          Get insights and analytics from all your platforms.
+        text: >+
+          Get insights and analytics from all your platforms. Let us focus on
+          collecting the dataand displaying it while you focus on growing your
+          business.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
