@@ -431,7 +431,7 @@ sections:
           We offer integration services so you can have all your data in one
           place.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/download (3)_375x210.jpeg
           altText: Placeholder Image
           styles:
             self:
