@@ -516,11 +516,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: We can boost your business to hte next level
-    text: >+
-
-      create a medium size image with graphs andcharts to emphasize how our data
-      oriented approach helps a business. donw use any words
-
+    text: >
+      Every business is unique, and off-the-shelf solutions often fall short. We
+      build **custom software tailored to your specific needs**, helping you
+      **streamline operations, automate workflows, and integrate data
+      seamlessly**. Whether you need a custom dashboard, automated processes, or
+      API integrations, we deliver **scalable, efficient solutions** that save
+      time and drive growth. **Contact us today** to transform the way your
+      business operates!
     media:
       fields:
         - name: name
