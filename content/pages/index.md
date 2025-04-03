@@ -382,7 +382,7 @@ sections:
           Easy Biz built an integration that saves us at least 10 hours per
           week!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Emily R., Operations Lea'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
