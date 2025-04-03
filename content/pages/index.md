@@ -448,7 +448,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Boost your shop
         tagline: E-commerce
         subtitle: This is the item subtitle
         text: |
