@@ -382,7 +382,7 @@ sections:
           Easy Biz built an integration that saves us at least 10 hours per
           week!"
         tagline: Testimonial 3
-        subtitle: 'Emily R., Operations Lea'
+        subtitle: 'Emily R., Operations Lead'
         text: >
           Contact us today to find out how we can save you time by centralizing
           your data.
