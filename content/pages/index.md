@@ -457,7 +457,7 @@ sections:
           business.
 
         image:
-          url: /images/images (1).png
+          url: /images/data1.jpg
           altText: Placeholder image
           styles:
             self:
