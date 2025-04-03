@@ -173,7 +173,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/download (1).png
+        url: /images/download (1)_200x58.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
