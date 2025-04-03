@@ -450,7 +450,7 @@ sections:
         type: FeaturedItem
       - title: Boost your shop
         tagline: E-commerce
-        subtitle: This is the item subtitle
+        subtitle: Unlock the power of data
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
