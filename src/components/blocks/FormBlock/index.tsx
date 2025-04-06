@@ -13,16 +13,10 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
-        event.preventDefault();
-
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
-    }
-
     return (
         <form
+            action="https://formsubmit.co/easybizisrael@gmail.com"
+            method="POST"
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -41,9 +35,8 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
-            onSubmit={handleSubmit}
             ref={formRef}
-            data-sb-field-path= {fieldPath}
+            data-sb-field-path={fieldPath}
         >
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}

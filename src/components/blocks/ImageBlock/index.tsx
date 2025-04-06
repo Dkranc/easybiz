@@ -40,6 +40,7 @@ export default function ImageBlock(props) {
                 )}
                 src={url}
                 alt={altText}
+                style={{ padding: 10 }}
             />
         </div>
     );
