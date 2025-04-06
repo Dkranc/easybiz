@@ -15,7 +15,7 @@ export default function FormBlock(props) {
 
     return (
         <form
-            action="https://formsubmit.co/easybizisrael@gmail.com"
+            action="https://formsubmit.co/751c7750b049b67645e08cc2bfc148f7"
             method="POST"
             className={classNames(
                 'sb-component',
